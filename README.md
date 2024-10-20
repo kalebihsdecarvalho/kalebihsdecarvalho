@@ -8,3 +8,6 @@ Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de S
 -  🐍 Python e Programação
 -  💼 LinkedIn: www.linkedin.com/in/kalebihenriquesilvadecarvalho
 -  📧 E-mail: kalebihenriquesilvadecarvalho@usp.br
+
+  ### Estatísticas GitHub
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kalebihsdecarvalho&show_icons=true&theme=radical)
