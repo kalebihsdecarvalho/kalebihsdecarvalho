@@ -11,5 +11,6 @@ Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de S
 
   ### Estatísticas GitHub
  ![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=kalebihsdecarvalho&show_icons=true&theme=radical)
+ 
  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebihsdecarvalho&layout=compact&theme=radical)
 
