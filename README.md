@@ -8,4 +8,3 @@ Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de S
 -  🐍 Python e Programação
 -  💼 LinkedIn: www.linkedin.com/in/kalebihenriquesilvadecarvalho
 -  📧 E-mail: kalebihenriquesilvadecarvalho@usp.br
--  
