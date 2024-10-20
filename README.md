@@ -1,16 +1,11 @@
-## Hi there 👋
+## Kalebi Henrique Silva de Carvalho
+Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de São Paulo (USP), no campus de São Carlos (ICMC) onde pretendo aprofundar meus conhecimentos em matemática, estatística e computação, realizando uma iniciação científica e participando de olimpíadas científicas e desafios universitários nas áreas de Data Science, Modelagem Matemática e Machine Learning.
 
-<!--
-**kalebihsdecarvalho/kalebihsdecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📊 Ciência de Dados
+-  📈 Análise Estatística
+-  🧮 Modelagem Matemática
+-  🤖 Machine Learning
+-  🐍 Python e Programação
+-  💼 LinkedIn: www.linkedin.com/in/kalebihenriquesilvadecarvalho
+-  📧 E-mail: kalebihenriquesilvadecarvalho@usp.br
+-  
