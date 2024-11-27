@@ -13,7 +13,7 @@ Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de S
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kalebihsdecarvalho&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kalebihsdecarvalho&show_icons=true&theme=radical&cache_seconds=86400" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebihsdecarvalho&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
